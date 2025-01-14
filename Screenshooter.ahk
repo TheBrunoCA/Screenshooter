@@ -4,7 +4,7 @@
  * @description A versatile library for capturing screenshots in various ways using CGdip.ahk.
  */
 
-#include CGdip.ahk
+#include dependencies\CGdip.ahk
 
 class Screenshooter {
     /**
